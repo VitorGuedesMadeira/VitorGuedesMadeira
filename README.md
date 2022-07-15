@@ -2,37 +2,37 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- &nbsp; Exploring new technologies and developing software solutions and quick hacks. 🤔
 
-- 🎓 &nbsp; Bachelor degree in Aeronautical Sciences at PUCRS.
+- &nbsp; Bachelor degree in Aeronautical Sciences at PUCRS. 🎓
 
-- 🌱 &nbsp; Microverse Student studying to be a Full-stack developer.
+- &nbsp; Microverse Student studying to be a Full-stack developer. 🌱
 
-- ✍️ &nbsp; Pursuing Web Development as a new career.
-
-
-
-<h3>🛠 Tech Stack</h3>
+- &nbsp; Pursuing Web Development as a new career. ✍️
 
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+<h3> Tech Stack 🛠</h3>
+
+
+
+- &nbsp; HTML | CSS | JavaScript | Bootstrap 🌐
 
 <!--
 
 - 🔧 &nbsp; Git | Figma | Webpack
 
-- 🖥 &nbsp; Illustrator | Photoshop | Premiere
+- &nbsp; Illustrator | Photoshop | Premiere 🖥
 
 -->
 
-<h3>🛠 To Learn</h3>
+<h3> To Learn 🛠</h3>
 
-- 🔧 &nbsp; AWS | Ruby | Typescript | SASS
+- &nbsp; AWS | Ruby | Typescript | SASS 🔧
 
 <hr>
 

@@ -2,9 +2,9 @@
 
 <hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
+                                                    <h3> 🤝🏻 Connect with Me </h3>
 
-email: vgm_rox@Hotmail.com
+                                                    email: vgm_rox@Hotmail.com
 </p>
 
 <hr>

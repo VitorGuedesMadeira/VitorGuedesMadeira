@@ -3,9 +3,8 @@
 <hr>
 <p>
 
-                                                    email: vgm_rox@Hotmail.com
+                                                           vgm_rox@hotmail.com
 </p>
-
 <hr>
 
 

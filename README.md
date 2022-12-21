@@ -3,7 +3,11 @@
 <h3>Get to know a little bit about me</h3>
 <p>- A multi-skilled Full-Stack developer with hands-on experience in developing. I graduated from Microverse, where people from all over the world join together to build different projects. I've spent the last several months completely immersed in remote development, pair-programmming, and building webpages with JavaScript, React/Redux, and Ruby/Rails.</p>
 
-<hr>
+<br>
+
+<p>- On my previous professional experiences, I have worked as an executive pilot, where I learned several skills I now use every day as a developer: effective problem-solving, great communication, multi-tasking, and more. I also worked as a video/image editor, where I built strong skills related to Adobe Photoshop, that helps on front-end projects, and also strengthened my ability to connect with clients.
+
+<br>
 
 <h3>I welcome you to check my live <a href="https://vitorguedesmadeira.netlify.app/" alt="portfolio-link">Portfolio</a></h3>
 

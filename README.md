@@ -24,11 +24,12 @@
     <p>- GitHub: <a href="https://github.com/VitorGuedesMadeira" alt="github">VitorGuedesMadeira</a></p>
     <p>- Linkedin: <a href="https://www.linkedin.com/in/vitor-guedes-madeira" alt="linkedin">Vitor Guedes Madeira</a></p>
     <p>- Instagram: <a href="https://www.instagram.com/vitorguedesmadeira" alt="instagram">@vitorguedesmadeira</a></p>
+    <p>- Medium: <a href="https://medium.com/@vitorguedesmadeira/you-teach-you-learn-6f5ac50aae65" alt="medium">@vitorguedesmadeira</a></p>
 </details>
 
 <hr>
 <p>
-                                                           vgm_rox@hotmail.com
+  <a href="vgm_rox@hotmail.com" alt="email">vgm_rox@hotmail.com</a>
 </p>
 <hr>
 

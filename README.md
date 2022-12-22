@@ -1,4 +1,4 @@
-<img src="assets/gif/banner.gif" alt="software developer banner">
+<img src="assets/gif/huge.gif" alt="software developer banner">
 
 <br>
 
@@ -7,7 +7,7 @@
 
 <br>
 
-<h3>I welcome you to check my live [portfolio](https://vitorguedesmadeira.netlify.app/)</h3>
+<h3>I welcome you to check my live <a href="https://vitorguedesmadeira.netlify.app/" alt="portfolio-link">Portfolio</a></h3>
 
 <br>
 

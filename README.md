@@ -5,11 +5,13 @@
 
 <br>
 
-<h3>I welcome you to check my live <a href="https://vitorguedesmadeira.netlify.app/" alt="portfolio-link">Portfolio</a></h3>
+<p>- On my previous professional experiences, I have worked as an executive pilot, where I learned several skills I now use every day as a developer: effective problem-solving, great communication, multi-tasking, and more. I also worked as a video/image editor, where I built strong skills related to Adobe Photoshop, that helps on front-end projects, and also strengthened my ability to connect with clients.
 
 <br>
 
 <h3>I welcome you to check my live <a href="https://vitorguedesmadeira.netlify.app/" alt="portfolio-link">Portfolio</a></h3>
+
+<br>
 
 <details>
   <summary>Click here to check my tech stack</summary>

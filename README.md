@@ -33,11 +33,11 @@
     <p>- Medium: <a href="https://medium.com/@vitorguedesmadeira/you-teach-you-learn-6f5ac50aae65" alt="medium">@vitorguedesmadeira</a></p>
 </details>
 
-<hr>
+<br>
+
 <p>
   <a href="vgm_rox@hotmail.com" alt="email">vgm_rox@hotmail.com</a>
 </p>
-<hr>
 
 
 

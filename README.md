@@ -22,7 +22,7 @@
     <p>- Professional: Remote Pair-Programming | Teamwork | Mentoring | Project Management</p>
     <p>- Product management: UI design | UX Design | Prototyping | Wireframing</p>
 </details>
-
+ 
 
 <details>
   <summary>Click here to check my contact links</summary>

@@ -1,7 +1,7 @@
 <img src="assets/gif/huge.gif" alt="software developer banner">
 
 <h3>Get to know me better</h3>
-<p>- A multi-skilled Full-Stack developer with hands-on experience in developing. I graduated from Microverse, where people from all over the world join together to build different projects. I've spent the last several months completely immersed in remote development, pair-programmming, and building webpages with JavaScript, React/Redux, and Ruby/Rails.</p>
+<p>- A multi-skilled FullStack developer with hands-on experience in developing. I graduated from Microverse, where people from all over the world join together to build different projects. I've spent the last several months completely immersed in remote development, pair-programmming, and building webpages with JavaScript, React/Redux, and Ruby/Rails.</p>
 
 <br>
 

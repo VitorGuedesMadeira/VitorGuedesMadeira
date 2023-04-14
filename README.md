@@ -15,7 +15,6 @@
 
 <details>
   <summary>Click here to check my Tech Stack</summary>
-  <br>
     <p>- Front-End: JavaScript | React | Redux | jQuery | HTML5 | CSS3 | SASS | Bootstrap | TailwindCSS | Adobe Photoshop | Canva</p>
     <p>- Back-End: Ruby | Rails | SQL</p>
     <p>- Tools & Methods: Git | GitHub | Netlify | Render | Mobile/Responsive Development | RSpec | Capybara | TDD | Chrome Dev Tools</p>
@@ -26,7 +25,6 @@
 
 <details>
   <summary>Click here to check my contact links</summary>
-  <br>
     <p>- GitHub: <a href="https://github.com/VitorGuedesMadeira" alt="github">VitorGuedesMadeira</a></p>
     <p>- Linkedin: <a href="https://www.linkedin.com/in/vitor-guedes-madeira" alt="linkedin">Vitor Guedes Madeira</a></p>
     <p>- Instagram: <a href="https://www.instagram.com/vitorguedesmadeira" alt="instagram">@vitorguedesmadeira</a></p>

@@ -14,6 +14,7 @@
 <br>
 
 <details>
+  <br>
   <summary>Click here to check my Tech Stack</summary>
     <p>- Front-End: JavaScript | React | Redux | jQuery | HTML5 | CSS3 | SASS | Bootstrap | TailwindCSS | Adobe Photoshop | Canva</p>
     <p>- Back-End: Ruby | Rails | SQL</p>

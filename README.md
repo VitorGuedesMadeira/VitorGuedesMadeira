@@ -16,7 +16,7 @@
 <details>
   <summary>Click here to check my Tech Stack</summary>
     <p>- Front-End: JavaScript | React | Redux | jQuery | HTML5 | CSS3 | SASS | Bootstrap | TailwindCSS | Adobe Photoshop | Canva</p>
-    <p>- Back-End: Ruby | Rails | SQL</p>
+    <p>- Back-End: Ruby | Rails | Python | SQL</p>
     <p>- Tools & Methods: Git | GitHub | Netlify | Render | Mobile/Responsive Development | RSpec | Capybara | TDD | Chrome Dev Tools</p>
     <p>- Professional: Remote Pair-Programming | Teamwork | Mentoring | Project Management</p>
     <p>- Product management: UI design | UX Design | Prototyping | Wireframing</p>
